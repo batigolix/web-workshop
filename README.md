@@ -50,11 +50,11 @@ Go to the browser and reload the web page to see the result.
 
 ## 4. Add content to the sections
 
-In the __About__ section we will put text from wikipedia using “paragraph” tags <p> and </p>.
+In the __About__ section we will put text from wikipedia using “paragraph” tags `<p>` and `</p>`.
 
-Place one paragraph of text from wikipedia between <p> and </p>.  Repeat for each paragraph.
+Place one paragraph of text from wikipedia between `<p>` and `</p>`. Repeat for each paragraph.
 
-If you want to leave blank lines between paragraphs use the “break” tag.  You simply type </br>.
+If you want to leave blank lines between paragraphs use the __break__ tag.  You simply type `</br>`.
 
 If you have no content you can [use dummy text](http://www.lipsum.com/feed/html) and replace it later.
 
@@ -62,10 +62,10 @@ Go to the browser and reload the web page to see the result.
 
 ## 5. Add a link. 
 
-Let’s create a link to the ISU website: ``http://isu.nl``
+Let’s create a link to the ISU website: __http://isu.nl__
 
-Links in HTML are created using the ``<a></a>`` tags and the ``href=`` attribute.  It’s like this:
-<a href=”http://isu.nl”>International school Utrecht</a>
+Links in HTML are created using the `<a></a>` tags and the `href=` attribute.  It’s like this:
+`<a href="http://isu.nl">`International school Utrecht`</a>`.
 
 Add this to the file and test the link to see if it works.
 
@@ -188,8 +188,8 @@ Go to the browser and reload the web page to see the result.
 
 Web developers are lazy people that do not like repeating jobs. So they bundle re-usable code in packages that are available on the internet. Such packages are called frameworks.
 
-Include a framework by adding the following line between the ``<head>
-`` and ``</head>`` tags in the HTML file.
+Include a framework by adding the following line between the `<head>
+` and `</head>` tags in the HTML file.
 
 ````
 <link rel="stylesheet" href="https://unpkg.com/blaze">
@@ -207,7 +207,6 @@ Replace the navigation from step 6 with:
   <li class="c-nav__item"><a class="c-link" href="#location">Location</a></li>
   <li class="c-nav__item c-nav__item--right"><a class="c-link" href="#contact">Contact</a></li>
 </ul>
-
 ````
 By using these additional classes you apply the styling of the framework.
 
