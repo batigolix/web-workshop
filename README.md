@@ -25,10 +25,9 @@ Create the skeleton of the new document including the opening tag `<html>`, the 
 Save your file as “index.html”.  You have created an HTML file.  HTML files
 contain all the content (text, images, videos etc.) and the structure for a website. HTML stands for __Hypertext markup language__.
 
-
 ## 2. Open the HTML file in a browser 
 
-In Firefox or Chrome (or another browser) open the index.html file via the menu __File > Open (File)__.  The website’s title will appear in your browser but there is no content in your website yet except the title “Art Burst 2018” and a bit of text.
+In Firefox or Chrome (or another browser) open the index.html file via the menu __File > Open (File)__.  The website’s title will appear in your browser but there is no content in your website yet except the title __Art Burst 2018__ and a bit of text.
 
 ## 3. Create a document structure 
 
@@ -97,7 +96,7 @@ At the top of your website (after the `<body>` tag) add the following list of li
 </ul>
 ````
  
-## 6. Add images
+## 7. Add images
 
 Find some images for your website. For example via [Google](https://www.google.nl/search?q=school+performance+dance+music). Or [Lorem pixel](http://lorempixel.com/) for dummy images.
 
@@ -105,7 +104,7 @@ Go to the __About__ section and __Location__ section in your HTML code and add s
 
 Go to the browser and reload the web page to see the result.
 
-## 7. Add a video
+## 8. Add a video
  
 Find a video on YouTube for your web page.  Select a video and right click on it.  You can then copy the “embed code” for the video. It looks like this: 
 
@@ -117,7 +116,7 @@ Go to the __About__ section in your HTML code and paste in the embed code where 
 
 Go to the browser and reload the web page to see the result.
 
-## 8. Style your web page
+## 9. Style your web page
 
 To change the styling such as color, fonts and alignment of images and text in your website you must add styling code into your HTML file.  This code is called CSS (cascading style sheet).
 
@@ -161,7 +160,7 @@ Save your file as __style.css__. Add the following line between the `<head>
 ````
 Go to the browser and reload the web page to see the result.
 
-## 9. Use classes
+## 10. Use classes
 
 To apply specific CSS you must use classes in the HTML code. Add the class __location__ to the `<h2>` heading __Location__.
 
@@ -171,7 +170,6 @@ It should look as follows:
 <h2 class="location">Location</h2>
 
 ````
-
 
 Now add the following snippet to the CSS file. 
 
@@ -186,7 +184,7 @@ Now add the following snippet to the CSS file.
 
 Go to the browser and reload the web page to see the result.
 
-## 10. Use a framework
+## 11. Use a framework
 
 Web developers are lazy people that do not like repeating jobs. So they bundle re-usable code in packages that are available on the internet. Such packages are called frameworks.
 
