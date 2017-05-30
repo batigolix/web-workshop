@@ -71,14 +71,6 @@ Add this to the file and test the link to see if it works.
 
 Go to the browser and test the link to see how it works.
 
-Add a menu to the top of the document:
-
-<ul>
-    <li>Home</li>
-    <li class="c-nav__item"><a class="c-link" href="#news">News</a></li>
-    <li class="c-nav__item c-nav__item--right">Contact</li>
-</ul>
-
 ## 6. Add a menu.
 
 Add a menu so that visitors can easily navigate to the four sections.
@@ -100,7 +92,7 @@ At the top of your website (after the `<body>` tag) add the following list of li
 
 Find some images for your website. For example via [Google](https://www.google.nl/search?q=school+performance+dance+music). Or [Lorem pixel](http://lorempixel.com/) for dummy images.
 
-Go to the __About__ section and __Location__ section in your HTML code and add some images using the ``<img>`` tags.  If your image is named photo1.jpg then add an image by typing ``<img src=”photo1.jpg”>``
+Go to the __About__ section and __Location__ section in your HTML code and add some images using the `<img>` tags.  If your image is named photo1.jpg then add an image by typing `<img src="photo1.jpg" alt="ISU building">`
 
 Go to the browser and reload the web page to see the result.
 
