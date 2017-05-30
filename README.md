@@ -60,7 +60,7 @@ If you have no content you can [use dummy text](http://www.lipsum.com/feed/html)
 
 Go to the browser and reload the web page to see the result.
 
-## 5. Add a link. 
+## 5. Add a link
 
 Let’s create a link to the ISU website: __http://isu.nl__
 
@@ -71,7 +71,7 @@ Add this to the file and test the link to see if it works.
 
 Go to the browser and test the link to see how it works.
 
-## 6. Add a menu.
+## 6. Add a menu
 
 Add a menu so that visitors can easily navigate to the four sections.
 
@@ -203,7 +203,6 @@ Replace the navigation from step 6 with:
 By using these additional classes you apply the styling of the framework.
 
 Go to the browser and reload the web page to see the result.
-
 
 ## Credits
 This workshop was copied from Coderdojo belgium:
