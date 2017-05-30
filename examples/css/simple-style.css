@@ -1,10 +1,33 @@
-
 body {
-
-border-color: orange;
-border-width: 10px;
-border-style: double;
-  padding: 10px;
-  margin: 10px;
+    border-color: orange;
+    border-width: 10px;
+    border-style: double;
+    padding: 10px;
+    margin: 10px;
+    background: url(http://boris.doesb.org/img/notebook.png);
+    background-color: white;
 }
 
+img {
+    border-color: RebeccaPurple;
+    border-width: 4px;
+    border-style: solid;
+    margin: 10px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+ul {
+    list-style-type: square;
+}
+
+h1, h2, h3 {
+    color: RebeccaPurple;
+}
+
+.location {
+    font-size: 150%;
+    background: DarkOrange;
+    color: Black;
+    padding: 8px;
+}
