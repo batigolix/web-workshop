@@ -2,7 +2,9 @@
 
 Lets make a webpage for next year's Art Burst (or whatever you want but you need to use your imagination). The page must introduce the
 event, show the schedule and the location and provide contact information.
- 
+
+When you're stuk you can [have a look at the finished product](https://raw.githubusercontent.com/batigolix/web-workshop/master/index.html).
+
 ## 1. Create a web page
 
 Open Sublime and open a new text file.
