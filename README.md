@@ -1,7 +1,6 @@
 # Make a webpage
 
-Lets make a webpage for next year's Art Burst (or whatever you want but you need to use your imagination). The page must introduce the
-event, show the schedule and the location and provide contact information.
+Lets make a webpage for next year's Art Burst (or whatever you want, but you need to use your imagination). The page must introduce the event, show the schedule and the location and provide contact information.
 
 When you're stuk you can [have a look at the finished product](https://raw.githubusercontent.com/batigolix/web-workshop/master/index.html).
 
@@ -204,6 +203,9 @@ Replace the navigation from step 6 with:
 By using these additional classes you apply the styling of the framework.
 
 Go to the browser and reload the web page to see the result.
+
+## 12. More
+If there is time left, try adding a [map](http://leafletjs.com/examples/quick-start/), [snow flakes](https://github.com/hcodes/snowflakes), or improve the styling using the [CSS reference](https://www.w3schools.com/cssref/).
 
 ## Credits
 This workshop was copied from Coderdojo belgium:
